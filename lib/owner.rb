@@ -6,6 +6,8 @@ class Owner
   
   def initialize(species)
     @species = species
+    OWNERS << self
+    @pets => {
   end
   
   def self.all
@@ -16,7 +18,4 @@ class Owner
     OWNERS.clear
   end
   
-  def pets
-    @pets => {
-  end
 end
