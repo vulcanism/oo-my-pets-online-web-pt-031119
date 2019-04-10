@@ -5,7 +5,7 @@ class Owner
   OWNERS = []
   
   def initialize(species)
-    
+    @species = species
   end
   
   def self.all
