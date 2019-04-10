@@ -3,10 +3,6 @@ class Owner
   
   OWNERS = []
   
-  def initialize
-    
-  end
-  
   def self.all
     OWNERS
   end
