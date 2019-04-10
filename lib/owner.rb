@@ -1,9 +1,7 @@
 class Owner
-  OWNERS = []
-  
   attr_accessor :pets
   
-  
+  OWNERS = []
   
   def initialize
     
