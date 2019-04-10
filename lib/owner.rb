@@ -65,4 +65,8 @@ class Owner
     #You monster
   end
   
+  def list_pets
+    
+  end
+  
 end
