@@ -4,6 +4,10 @@ class Owner
   
   OWNERS = []
   
+  def initialize(species)
+    
+  end
+  
   def self.all
     OWNERS
   end
