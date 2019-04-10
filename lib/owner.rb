@@ -15,4 +15,8 @@ class Owner
   def self.reset_all
     OWNERS.clear
   end
+  
+  def pets
+    
+  end
 end
